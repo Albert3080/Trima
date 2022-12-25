@@ -1,0 +1,96 @@
+{
+  "mod_elements": [
+    {
+      "name": "Trima",
+      "type": "biome",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "trima"
+    },
+    {
+      "name": "TriGrass",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tri_grass"
+    },
+    {
+      "name": "TriLeaves",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tri_leaves"
+    },
+    {
+      "name": "DangerYou",
+      "type": "achievement",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "danger_you"
+    },
+    {
+      "name": "TriOre",
+      "type": "item",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tri_food"
+    },
+    {
+      "name": "TriOreMake",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tri_ore_make"
+    },
+    {
+      "name": "MakedTriFood",
+      "type": "achievement",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "maked_tri_food"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "block.trima.tri_grass": "Tri Grass",
+      "block.trima.tri_leaves": "TriDirt",
+      "advancements.maked_tri_food.title": "Wow! You maked Tri Food!",
+      "advancements.danger_you.title": "Oh! You\u0027re in danger!",
+      "biome.trima.trima": "Trima",
+      "advancements.maked_tri_food.descr": "You maked Tri Food to survive in Trima biome!",
+      "item.trima.tri_food": "Tri Food",
+      "advancements.danger_you.descr": "You are in Trima biome"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "trima",
+    "modName": "Trima",
+    "version": "1.0.0",
+    "author": "addam, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.19.2",
+    "modElementsPackage": "net.mcreator.trima_biome",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200348217
+}

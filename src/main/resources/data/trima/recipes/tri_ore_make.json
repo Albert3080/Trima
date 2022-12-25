@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "trima:tri_grass"
+    },
+    "3": {
+      "item": "minecraft:sugar"
+    },
+    "4": {
+      "item": "trima:tri_grass"
+    },
+    "5": {
+      "item": "minecraft:apple"
+    },
+    "7": {
+      "item": "trima:tri_grass"
+    }
+  },
+  "result": {
+    "item": "trima:tri_food",
+    "count": 1
+  }
+}
