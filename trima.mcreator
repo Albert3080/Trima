@@ -1,0 +1,59 @@
+{
+  "mod_elements": [
+    {
+      "name": "Trima",
+      "type": "biome",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "trima"
+    },
+    {
+      "name": "TriGrass",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tri_grass"
+    },
+    {
+      "name": "TriLeaves",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tri_leaves"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "block.trima.tri_grass": "Tri Grass",
+      "block.trima.tri_leaves": "TriDirt",
+      "biome.trima.trima": "Trima"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "trima",
+    "modName": "Trima",
+    "version": "1.0.0",
+    "author": "addam, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.19.2",
+    "modElementsPackage": "net.mcreator.trima_biome",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200348217
+}
